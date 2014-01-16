@@ -1555,3 +1555,8 @@ body.ie8,
 .ie8 .page-image-text .description i,
 .ie8 .flex-direction-nav a { background: url(img/ie/opacity-70.png); }
 .ie8 .entry .gallery .gallery-caption { background: url(img/ie/opacity-80-light.png); }
+
+#views
+{
+	display: none !important;
+}
